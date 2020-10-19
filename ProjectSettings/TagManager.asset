@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Box
+  - donutKey
+  - gravityTrigger0
+  - gravityTrigger1
+  - gravityTrigger
+  - Donut Exterior Drop Zone
+  - Donut Interior Drop Zone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ignore Player Collision
+  - Player
+  - Ignore Planet Collision
+  - Planet
+  - Player Drop Down
+  - Can Drop Through
+  - Box
+  - light rays
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2159792097
+    locked: 0
+  - name: Play Layer
+    uniqueID: 1785304571
+    locked: 0
+  - name: NPC Layer
+    uniqueID: 466531221
+    locked: 0
+  - name: Player
+    uniqueID: 2223084855
+    locked: 0
+  - name: Foreground
+    uniqueID: 4241840721
+    locked: 0
